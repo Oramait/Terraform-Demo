@@ -1,4 +1,4 @@
-variable "ResourceGroupName" {
+variable "resource_group_name" {
   default     = "terraform-resource-group"
   description = "The prefix used for all resources in this example"
 }
